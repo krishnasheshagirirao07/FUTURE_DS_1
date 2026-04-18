@@ -1,4 +1,4 @@
-# Business Sales Performance Analytics 📊
+# Business Sales Performance Analytics 
 
 ## Objective
 To analyze historical sales data for a retail Superstore to identify revenue trends, top-performing products, high-value categories, and regional performance.
